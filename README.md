@@ -119,7 +119,7 @@ ai-platform/
 
 ---
 
-## 🛠️ Tech Stack (All Free!)
+##  Tech Stack (All Free!)
 
 | Technology | Use | Cost |
 |---|---|---|
@@ -131,7 +131,7 @@ ai-platform/
 
 ---
 
-## ❗ Common Errors & Fixes
+##  Common Errors & Fixes
 
 **"Cannot connect to MongoDB"**
 → .env mein MONGODB_URI check karo, password sahi daala?
@@ -147,5 +147,5 @@ ai-platform/
 
 ---
 
-## 📞 Support
+##  Support
 Instructor: Syed Shah | Web Engineering Course 2025-2026
