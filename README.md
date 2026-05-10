@@ -1,4 +1,4 @@
-# ⚡ AI Platform — 35 Tools
+#  AI Platform — 35 Tools
 
 35 AI-powered tools ek hi platform mein | Built by Syed Shah | Web Engineering 2025-2026
 
