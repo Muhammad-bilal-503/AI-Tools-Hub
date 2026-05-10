@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Setup Instructions (Step by Step)
+##  Setup Instructions (Step by Step)
 
 ### Step 1 — Project Download Karo
 ZIP file download karo aur unzip karo kisi bhi folder mein.
@@ -83,7 +83,7 @@ Browser mein http://localhost:3000 khulega ✅
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai-platform/
